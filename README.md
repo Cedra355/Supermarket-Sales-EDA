@@ -7,7 +7,7 @@ This project performs Exploratory Data Analysis (EDA) on a retail Superstore sal
 ## Dataset Information
 
 - Dataset: "superstore dataset.csv"
-- Source: "Kaggle – Superstore Sales Dataset" (https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)
+- Source: "Kaggle – Superstore Dataset" (https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)
 
 ## Technologies Used
 
